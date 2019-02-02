@@ -1,0 +1,6 @@
+https://github.com/timuluvus/golang-ex.git
+
+oc new-app openshift/templates/beego.json -p SOURCE_REPOSITORY_URL=https://github.com/timuluvus/golang-ex.git
+
+
+
